@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ubiquitous-octo-enigma/static/css/main.7cc9d054.css",
-    "main.js": "/ubiquitous-octo-enigma/static/js/main.fb2688a8.js",
+    "main.js": "/ubiquitous-octo-enigma/static/js/main.5e9c206a.js",
     "static/js/453.c061cb01.chunk.js": "/ubiquitous-octo-enigma/static/js/453.c061cb01.chunk.js",
     "index.html": "/ubiquitous-octo-enigma/index.html",
     "main.7cc9d054.css.map": "/ubiquitous-octo-enigma/static/css/main.7cc9d054.css.map",
-    "main.fb2688a8.js.map": "/ubiquitous-octo-enigma/static/js/main.fb2688a8.js.map",
+    "main.5e9c206a.js.map": "/ubiquitous-octo-enigma/static/js/main.5e9c206a.js.map",
     "453.c061cb01.chunk.js.map": "/ubiquitous-octo-enigma/static/js/453.c061cb01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cc9d054.css",
-    "static/js/main.fb2688a8.js"
+    "static/js/main.5e9c206a.js"
   ]
 }
